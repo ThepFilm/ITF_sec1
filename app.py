@@ -1,1 +1,6 @@
-Hi app
+  “““ Docstring ”””
+def main():
+  “““ Docstring ”””
+  print(“Hello Git”)
+   
+main()
